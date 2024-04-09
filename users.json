@@ -1,0 +1,32 @@
+[
+    {
+        "admin": {
+            "password": "0dde5185db7da5c81f0fa71696506e4f",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "user1": {
+            "password": "0dde5185db7da5c81f0fa71696506e4f",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "user2": {
+            "password": "0dde5185db7da5c81f0fa71696506e4f",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "vika": {
+            "password": "a3d296261dbda886e8685e4bad338bf4",
+            "address": "127.0.0.1"
+        }
+    },
+    {
+        "natasha": {
+            "password": "786cf641763e30aedb36c356b641b1b4",
+            "address": "127.0.0.1"
+        }
+    }
+]
